@@ -3,7 +3,7 @@ Api python/Django Rest of books
 
 ## 1
 ```
-$  git clone https://github.com/jeffersonsantos26/library.git
+$  git clone https://github.com/jeffersonnasciment0/LIBRARY-DJANGO-REST.git
 ```
 
 ## 2
